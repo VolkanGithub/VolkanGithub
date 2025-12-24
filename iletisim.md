@@ -8,26 +8,17 @@ description: Karayosunu temini veya bilgi almak için bize ulaşın.
 
 Karayosunu temini veya kullanım önerileri için bize ulaşabilirsiniz.
 
-## Form ile Ulaşın
+## E-posta ile Ulaşın
 
-<form action="https://formspree.io/f/YOUR_FORM_ID_HERE" method="POST">
-  <label for="email">E-posta Adresiniz:</label>
-  <input type="email" name="email" placeholder="ornek@email.com" required>
+Aşağıdaki butona tıkladığınızda, e-posta uygulamanız açılır ve `volkan@volkangithub.io` adresine otomatik olarak bir mesaj oluşturur. Konu satırı ve ilk satır zaten doldurulmuş olur. Lütfen detaylı bilgi vererek mesajınızı tamamlayınız.
 
-  <label for="message">Mesajınız:</label>
-  <textarea name="message" rows="5" placeholder="Mesajınızı buraya yazın..." required></textarea>
+[**E-posta Gönder (Volkan’a)**](mailto:volkan@volkangithub.io?subject=Karayosunu%20Talebi%20veya%20Bilgi%20Almak%20İstiyorum&body=Merhaba%2C%0A%0ABu%20maili%20karayosunu%20talebi%20veya%20bilgi%20almak%20amac%C4%B1yla%20g%C3%B6nderiyorum.%0A%0AMesaj%20i%C3%A7eri%C4%9Fi%3A%0A)
 
-  <button type="submit">Gönder</button>
-</form>
-
-> **Not:** `YOUR_FORM_ID_HERE` yazan yeri, Formspreedan alacağın gerçek form ID ile değiştirmen gerekecek. Aşağıda nasıl yapılacağını anlatıyorum.
+> **Alternatif E-posta Adresi (Gmail):**  
+> Eğer yukarıdaki buton çalışmazsa, lütfen e-posta uygulamanızda yeni bir mesaj oluşturarak şu adrese gönderin: `volkaninancak@gmail.com`
 
 ## WhatsApp ile Ulaşın
 
 [**WhatsApp ile Mesaj Gönder**](https://wa.me/905555555555?text=Merhaba,%20karayosunu%20hakkında%20bilgi%20almak%20istiyorum.)
 
 Lütfen mesajınızda amacınızı belirtin: Örn. “Bonsai için 1 kg karayosunu almak istiyorum.”
-
-## E-posta ile Ulaşın
-
-Birkaç gün içinde dönüş yapacağım: [volkan@volkangithub.github.io](mailto:volkan@volkangithub.github.io)
